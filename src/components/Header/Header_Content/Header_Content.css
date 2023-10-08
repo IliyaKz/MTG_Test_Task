@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  background-color: rgb(235, 245, 250);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.header-img {
+  width: 70px;
+  height: 70px;
+}

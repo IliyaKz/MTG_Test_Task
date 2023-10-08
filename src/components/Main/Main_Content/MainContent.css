@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.review-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+}

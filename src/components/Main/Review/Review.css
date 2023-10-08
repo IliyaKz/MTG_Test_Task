@@ -1,0 +1,19 @@
+.review-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 10px;
+  max-width: 320px;
+  background-color: rgb(235, 245, 250);
+  border-radius: 10px;
+  font-size: 14px;
+  box-shadow: 0 0 4px 1px #262528aa;
+}
+
+.review-item {
+  margin: 0;
+}
+
+.review-name {
+  font-weight: bold;
+}
